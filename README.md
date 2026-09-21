@@ -60,10 +60,6 @@ que precisa ser resolvido antes de construir.
 
 ## Estatísticas
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HBSTSDS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBSTSDS&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
 
 <p align="center">
   <i>Always learning, building and improving.</i>
