@@ -58,9 +58,6 @@ que precisa ser resolvido antes de construir.
 * Eventos, dados e operação
 * Games e cultura digital
 
-## Estatísticas
-
-
 <p align="center">
   <i>Always learning, building and improving.</i>
 </p>
